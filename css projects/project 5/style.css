@@ -1,0 +1,48 @@
+
+
+nav {
+    margin: 20px 200px;
+}
+img {
+    width: 180px;
+display: inline;
+}
+button {
+    background-color: black;
+    text-decoration-line: none;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    height: 35px;
+    width: 100px;
+    margin-left: 630px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+main{
+    background-color: #f2f2f2;
+    padding: 30px 200px;
+    text-align: center;
+}
+h1{
+    font-size: 22px;
+
+}
+table{
+    width: 100%;
+    
+}
+table, th, td {
+    border: 1px solid black;
+    align-items: center;
+    border-collapse: collapse;
+}
+th{
+    height: 50px;
+}
+
+footer{
+    text-align: center;
+}

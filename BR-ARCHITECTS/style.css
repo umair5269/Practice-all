@@ -1,0 +1,37 @@
+#top-container-bg {
+  background-image: url(https://www.w3schools.com/w3images/architect.jpg);
+  background-size:80%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 70vh;
+  
+  
+}
+#projects-container, #about-container, #contact-container{
+  width: 80%;
+}
+#br-word {
+  background-color: rgba(0, 0, 0, 0.7);
+  
+}
+
+#project {
+  font-weight: 400;
+}
+
+#about-word {
+  font-weight: 400;
+}
+
+#contact-word {
+  font-weight: 400;
+}
+
+#bottom-container{
+  background-image: url(https://www.w3schools.com/w3images/map.jpg);
+  background-size:80%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 900px;
+}
+
